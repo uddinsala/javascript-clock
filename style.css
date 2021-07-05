@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: #f1f1ff1;
+    font-size: 16px;
+}
+.container {
+    margin: 0 auto;
+    width: 1170px;
+}
+.clock{
+    text-align: center;
+    display: flex;
+}
+.clock > div {
+    padding: 20px;
+    background: #f9f9f9;
+}
+.clock span {
+    font-size: 28px;
+}
